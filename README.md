@@ -1,7 +1,7 @@
 # movieTicketBooking
 Movie Ticket Booking Program
 
-📌 Project Description
+📌 Project Description:
 This is a simple movie ticket booking program developed as a college project. It allows users to select a movie, choose seats, and calculate the total cost of their booking.
 
 🏗️ Features
@@ -38,7 +38,7 @@ This project is licensed under the MIT License.
 📬 Contact
 - Author: Vishnu Jeyam M
 - Email: jeyamvishnu18@gmail.com
-- GitHub: vishnujeyam
+- GitHub: VishnuJeyam
 
 Feel free to contribute, report issues, or suggest new features!
 
